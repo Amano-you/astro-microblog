@@ -1,12 +1,12 @@
 ---
-pubDate: 2024-01-01
-author: Alejandro Martinez
+pubDate: 2022-04-18
+author: OTOKA SUB
 title: 【OTOKA SUB-004】朦胧的山荷叶 (2021)
 description: "朦胧的山荷叶 かそけきサンカヨウ (2021)"
 image:
-  url: "/src/images/blog/1.jpeg"
+  url: "/src/images/blog/otoka-4.jpg"
   alt: "#"
-tags: ["HTML", "Tailwind"]
+tags: ["OTOKA SUB", "电影"]
 ---
 
 # **朦胧的山荷叶 かそけきサンカヨウ (2021)**
@@ -31,6 +31,7 @@ tags: ["HTML", "Tailwind"]
 
 IMDb: tt18566518
 
+
 【STAFF】
 
 翻译：曜
@@ -41,7 +42,3 @@ IMDb: tt18566518
 
 [⬇DOWNLOAD](https://pan.baidu.com/s/1LnUO2X3N0111U64dQNHj3g?pwd=c3t8)
 
-<aside>
-💡 有关Notion安装或者使用上的问题，欢迎您在底部评论区留言，一起交流~
-
-</aside>

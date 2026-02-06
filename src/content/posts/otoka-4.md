@@ -6,7 +6,7 @@ description: "朦胧的山荷叶 かそけきサンカヨウ (2021)"
 image:
   url: "/src/images/blog/otoka-4.jpg"
   alt: "#"
-tags: ["OTOKA SUB", "电影"]
+tags: ["OTOKA-SUB"]
 ---
 
 # **朦胧的山荷叶 かそけきサンカヨウ (2021)**

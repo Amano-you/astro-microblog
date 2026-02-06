@@ -40,5 +40,5 @@ IMDb: tt18566518
 
 对应片源：Skeleton.Flower.2021.AMAZON.WEB-DL.1080p.X264-XRES.mp4
 
-[⬇DOWNLOAD](https://pan.baidu.com/s/1LnUO2X3N0111U64dQNHj3g?pwd=c3t8)
+[⬇DOWNLOAD](https://pan.baidu.com/s/1LnUO2X3N0111U64dQNHj3g) c3t8
 
